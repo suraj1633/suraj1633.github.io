@@ -58,7 +58,6 @@ Things I should learn for better placement.
 
 You can add a footnote like this[^footnote1].
 
-![An image of a Panda](https://en.wikipedia.org/wiki/File:Grosser_Panda.JPG)
 
 [^footnote1]: 1<sup>st</sup> footnote is added.
 
