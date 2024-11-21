@@ -58,6 +58,8 @@ Things I should learn for better placement.
 
 You can add a footnote like this[^footnote1].
 
+![An image of a Panda](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.washingtonpost.com%2Fclimate-environment%2F2024%2F08%2F09%2Fpandas-san-diego-zoo-photos%2F&psig=AOvVaw11STjA8rbXWTvGeciAd839&ust=1732259991742000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOj6rPjx7IkDFQAAAAAdAAAAABAE)
+
 [^footnote1]: 1<sup>st</sup> footnote is added.
 
 Some `Alerts` are given below:
