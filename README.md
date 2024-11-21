@@ -27,7 +27,7 @@ int main(){
     return 0;
 }
 ```
-`#ffffff` The colour is not appearing.
+`#FFFFFF` The colour is not appearing.
 
 [Here's the link for this Github repository.](https://github.com/suraj1633/1strepository#)
 
