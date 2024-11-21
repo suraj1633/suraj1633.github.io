@@ -79,6 +79,7 @@ Some `Alerts` are given below:
 <!-- Key to success. -->
 
 Tables of Students and there marks in Maths:
+
 |S.No.|Student Name|Marks(in Maths)|
 |---|---|---|
 |1.|Suraj|98|
