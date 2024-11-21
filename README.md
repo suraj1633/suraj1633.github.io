@@ -80,7 +80,7 @@ Some `Alerts` are given below:
 
 Tables of Students and there marks in Maths:
 |S.No.|Student Name|Marks(in Maths)|
-|-|-|-|
+|---|---|---|
 |1.|Suraj|98|
 |2.|Karthik|93|
 |3.|Arnav|92|
